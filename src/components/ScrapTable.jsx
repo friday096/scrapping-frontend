@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 import { deleteScraps } from '../service/scrapping';
 import { toast } from 'react-toastify';
 import FacebookDarkIcon from '../assets/icons/FacebookDarkIcon';
-import TwitterDarkIcon from '../assets/icons/twitterDarkIcon';
+import TwitterDarkIcon from '../assets/icons/TwitterDarkIcon';
 import LinkedInDarkIcon from '../assets/icons/LinkedInDarkIcon';
 import ListPlusIcon from '../assets/icons/ListPlusIcon';
 const API_URL = import.meta.env.VITE_API_URL
